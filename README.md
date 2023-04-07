@@ -1,6 +1,6 @@
 # Output Character Count From File, Starting With Rarest Occurrences
 
-The script rare.py allows you to input a text file, and it will output a count of each character's occurrence in the file beginning with those occurring the least amount of times.  It can serve as a library to be imported as well.  
+The script rare.py allows you to input a text file, and it will output a count of each character's occurrence in the file beginning with those occurring the least amount of times.  This can be useed for instance to create a frequency distribution to aid in substitution cipher cryptanalysis.  It can serve as a library to be imported as well.  
 
 ## Run Application
 
